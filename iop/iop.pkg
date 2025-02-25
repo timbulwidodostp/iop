@@ -1,5 +1,4 @@
 d 'iop': Estimate (Estimating) ex-ante inequality of opportunity Use iop With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f iop.ado
+f iop.sthlp
