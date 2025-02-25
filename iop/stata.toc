@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p iop Estimate (Estimating) ex-ante inequality of opportunity Use iop With STATA 18
