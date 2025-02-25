@@ -1,4 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'iop': Estimate (Estimating) ex-ante inequality of opportunity Use iop With STATA 18
 d
 f dea.ado
 f dea.sthlp
