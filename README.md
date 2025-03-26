@@ -3,6 +3,8 @@ Estimate (Estimating) ex-ante inequality of opportunity Use iop With STATA 18
 
 Different measures of inequality of opportunity for dichotomous, ordered and continuous outcome variables Use iop With STATA 18
 
+https://www.youtube.com/watch?v=m8esI2-Barg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
